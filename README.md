@@ -1,6 +1,6 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Esta é a prova 2 de Programação Orientada a Objetos. O objetivo é criar um cadastros de produtos.
 
 ## Folder Structure
 
