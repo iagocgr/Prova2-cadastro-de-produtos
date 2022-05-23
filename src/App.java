@@ -99,6 +99,9 @@ public class App {
 
     private static void realizarVenda() throws IOException, InterruptedException {
         limparTela();
+        System.out.println("Menu em construção...");
+        System.out.println(">> Pressione ENTER para voltar ao menu ...");
+        System.in.read();
         
 
     }
